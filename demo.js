@@ -3,5 +3,6 @@ function(num) {
 	function b () {
 		var a = "aa";
 		var b = "bb";
+		var c = "cc";
 	}
 }
